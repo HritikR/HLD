@@ -11,7 +11,6 @@ The core mission of this repository is to foster an open-source community around
 - **Promote Open Collaboration:** Encourage contributions and feedback from the wider open-source community, allowing anyone interested to participate in the architectural design process.
 - **Facilitate Knowledge Sharing:** Serve as an educational resource for developers, architects, and students who are looking to learn about system architecture through real-world examples.
 - **Support Open Source Development:** Provide a foundation for open-source projects by making high-quality design documents available, which can be adapted and used by others in their own projects.
-- **Enhance Design Transparency:** Demonstrate our commitment to transparency and open governance by making our design decisions public, inviting scrutiny, and fostering trust.
 
 This repository is not just a collection of diagrams; it is a gateway for innovation, learning, and collaboration in the open-source community. We welcome contributions, suggestions, and discussions from all who wish to be a part of this initiative.
 
