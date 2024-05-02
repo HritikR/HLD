@@ -25,6 +25,8 @@ Below is a table of the High Level Design diagrams currently available in this r
 | Design Name  | Description                                      | Location in Repository   |
 |--------------|--------------------------------------------------|-------------------------|
 | GPT Wrapper  | High-level design of a GPT model wrapper system. | [/gpt-wrapper](/gpt-wrapper/README.md)|
+| Email Service  | High-level design for a scalable email sending service. | [/email-service](/email-service/README.md)|
+
 
 Please navigate to the respective directories for detailed information and the design diagrams.
 
